@@ -37,3 +37,11 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Login Infor
+```
+Username: nagp31@test.com
+password: Test@123
+
+Demo Url:  http://amit31-vue.surge.sh
+```
